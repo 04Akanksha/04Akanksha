@@ -23,7 +23,7 @@
 <br />
 
 [![Linkedin: Akanksha Yadav](https://www.linkedin.com/in/akanksha-yadav-8634b626b/)]
-[![GitHub Akanksha Yadav]
+[![GitHub Akanksha Yadav]]
 <!--
 **04Akanksha/04Akanksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
