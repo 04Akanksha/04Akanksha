@@ -23,7 +23,15 @@
 <br />
 
 [![Linkedin: Akanksha Yadav](https://www.linkedin.com/in/akanksha-yadav-8634b626b/)]
-[![GitHub Akanksha Yadav]]
+
+### Languages and Tools:
+
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img align="left" alt="CSS 3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<br/><br/><br/>
+
 <!--
 **04Akanksha/04Akanksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
